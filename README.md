@@ -1,16 +1,18 @@
 <div align="center">
 
+<img src="./profile.jpg" width="180" alt="Faraz Khan">
+
 # FARAZ KHAN
 
 ### BBA Marketing Student | Marketing • Sales • Customer Service • Customer Support
 
 📍 Kanpur, Uttar Pradesh, India
 
-<a href="https://www.linkedin.com/in/faraz-khan-5abab4424">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<a href="https://linkedin.com/in/faraz-khan-5abab4424">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:kfaraaz837@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -21,152 +23,117 @@
 
 I'm a **BBA Marketing student at Allen House Business School** with a strong interest in **Marketing, Sales, Customer Service, Customer Support, and Business Development**.
 
-I enjoy understanding customer needs, communicating with people, solving problems, and turning marketing concepts into practical business solutions.
+I enjoy understanding customer needs, communicating with people, solving problems, and creating better customer experiences.
 
-My practical experience includes managing seller accounts on **Meesho and Amazon**, where I worked with product listings, catalogues, customer communication, sales, customer support, and customized orders.
-
-Currently, I'm focused on developing myself as a **marketing and customer-focused professional** while building practical projects and expanding my digital skills.
+I'm currently focused on building practical skills through **projects, certifications, and real-world business experience**.
 
 ---
 
-## 🎯 My Focus Areas
+## 🎯 Professional Focus
 
-| Area | Focus |
-|---|---|
-| 📣 Marketing | Customer understanding, positioning & promotion |
-| 💼 Sales | Customer engagement, selling & relationship building |
-| 🤝 Customer Service | Communication, issue handling & customer experience |
-| 💬 Customer Support | Understanding problems & providing solutions |
-| 📈 Business Development | Customer & business opportunities |
-| 📱 Digital Marketing | Digital promotion & online communication |
-| 📊 Marketing Analytics | Data interpretation & business insights |
+- 📈 Sales & Business Development
+- 📣 Marketing & Customer Engagement
+- 🤝 Customer Service & Customer Support
+- 💬 Customer Communication
+- 🧩 Problem Solving
+- 📊 Business & Data Insights
 
 ---
 
-## 🧠 Core Skills
+## 💼 Practical Experience
 
-**Communication** · **Teamwork** · **Problem Solving**  
-**Interpersonal Skills** · **Time Management** · **Adaptability**
+### 🛍️ E-commerce Account Management
 
----
+Managed seller accounts across **Meesho and Amazon**, gaining practical exposure to:
 
-## 🛠️ Digital & Technical Skills
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-**Digital Marketing** · **Editing** · **Presentation Design**
-
----
-
-# 📂 Featured Project
-
-## 🎮 Chillbyte — Gaming Cooler Marketing Project
-
-A college marketing project based on a **gaming cooler product concept**.
-
-### What I worked on
-
-- Product concept development
-- STP analysis
-- Target customer identification
-- Customer-focused positioning
-- Marketing strategy
+- Product listing & catalog management
+- Customer communication
+- Customer support
+- Sales & order management
+- Customized customer orders
 - Product presentation
-- Promotional video
-- Product promotion
+- Handling customer requirements
 
-**Focus:** `Marketing` `STP` `Customer Analysis` `Product Strategy` `Promotion`
-
----
-
-# 💼 Practical Experience
-
-## Sales • Customer Service • Online Business
-
-Hands-on experience managing seller accounts across **Meesho and Amazon**.
-
-### Responsibilities
-
-- 🛍️ Product listing management
-- 📋 Catalogue uploading and management
-- 💬 Customer communication
-- 🤝 Customer support-related services
-- 💼 Sales-related activities
-- 🎨 Managing customization orders
-- 🔎 Understanding customer requirements
-- 📦 Coordinating orders according to customer needs
-
-### Skills developed
-
-`Sales` `Customer Service` `Customer Communication`  
-`Problem Solving` `Customer Support` `Product Management`
+> This experience helped me understand real-world customer interaction, sales processes and online business operations.
 
 ---
 
-# 📚 Certifications
+## 🚀 Featured Project
 
-- 🎓 **Executive Diploma in Business Communication**
-- 📱 **Basics of Digital Marketing**
-- 📊 **30 Days Power BI Micro Course**
-- 💰 **National Financial Literacy Test**
+### 🎮 Chillbyte — Marketing Project
 
----
+**Chillbyte** is a gaming cooler concept developed as part of a marketing project.
 
-# 🏆 Activities & Achievements
-
-### 🌐 International Conference
-
-Participated in an international conference, gaining exposure to professional communication, presentations, and broader business perspectives.
+**My contribution:**
+- Created the presentation
+- Developed marketing content
+- Created a promotional video
+- Presented the project
+- Worked on product positioning and customer appeal
 
 ---
 
-# 🎓 Education
+## 🧠 Skills
 
-### Bachelor of Business Administration — Marketing
+### Professional Skills
 
-**Allen House Business School**
+`Communication` `Sales` `Customer Service` `Customer Support`
 
-`2025 – 2028` · `3rd Semester` · **CGPA: 7.8**
+`Teamwork` `Problem Solving` `Interpersonal Skills`
 
----
+`Time Management` `Adaptability`
 
-# 🌍 Languages
+### Digital & Business Skills
 
-- 🇬🇧 English
-- 🇮🇳 Hindi
+`Microsoft Excel` `PowerPoint` `Canva`
 
----
-
-# 🚀 Currently Building
-
-I'm continuously developing my skills across:
-
-**Marketing → Sales → Customer Experience → Customer Support → Business Development → Digital Marketing → Analytics**
-
-My goal is to combine **marketing knowledge, communication, customer understanding, and practical business skills** to create meaningful results.
+`Power BI` `Google Sheets` `Digital Marketing`
 
 ---
 
-# 🤝 Let's Connect
+## 📜 Certifications & Learning
 
-I'm open to connecting with people interested in:
-
-**Marketing • Sales • Customer Service • Customer Support • Business Development**
-
-📧 **Email:** kfaraaz837@gmail.com
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/faraz-khan-5abab4424
+- Executive Diploma in Business Communication
+- Basics of Digital Marketing
+- 30 Days Power BI Micro Course
+- National Financial Literacy Test
+- International Conference Participation
 
 ---
+
+## 🌐 Languages
+
+- 🇬🇧 English — Professional
+- 🇮🇳 Hindi — Native
+
+---
+
+## 📌 Currently Learning
+
+I'm continuously developing my knowledge in:
+
+**Marketing • Sales • Customer Experience • Business Communication • Data Analytics**
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with people interested in **Marketing, Sales, Customer Service, Customer Support and Business Development**.
 
 <div align="center">
 
-### Learn • Build • Communicate • Create Value
+<a href="https://linkedin.com/in/faraz-khan-5abab4424">
+LinkedIn
+</a>
+
+&nbsp; • &nbsp;
+
+<a href="mailto:kfaraaz837@gmail.com">
+Email
+</a>
+
+<br><br>
+
+⭐ Thanks for visiting my profile!
 
 </div>
